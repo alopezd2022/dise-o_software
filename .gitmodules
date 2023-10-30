@@ -1,0 +1,9 @@
+[submodule "p0-welcome-alopezd2022"]
+	path = p0-welcome-alopezd2022
+	url = https://github.com/clases-julio/p0-welcome-alopezd2022.git
+[submodule "p1-introc-alopezd2022"]
+	path = p1-introc-alopezd2022
+	url = https://github.com/clases-julio/p1-introc-alopezd2022.git
+[submodule "p2-introdiseno-alopezd2022"]
+	path = p2-introdiseno-alopezd2022
+	url = https://github.com/clases-julio/p2-introdiseno-alopezd2022.git
