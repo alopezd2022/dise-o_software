@@ -10,3 +10,6 @@
 [submodule "p3-implemclases-alopezd2022"]
 	path = p3-implemclases-alopezd2022
 	url = https://github.com/clases-julio/p3-implemclases-alopezd2022.git
+[submodule "p4-sobrecarga-array-alopezd2022"]
+	path = p4-sobrecarga-array-alopezd2022
+	url = https://github.com/clases-julio/p4-sobrecarga-array-alopezd2022.git
